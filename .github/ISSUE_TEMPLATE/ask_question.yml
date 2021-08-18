@@ -5,10 +5,6 @@ labels: [question, triage]
 assignees:
   - tgwolf
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to submit this question!
   - type: textarea
     id: question
     attributes:
