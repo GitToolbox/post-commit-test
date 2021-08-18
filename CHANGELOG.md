@@ -9,6 +9,8 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 - New template [`[head]`](https://github.com/GitToolbox/post-commit-test/commit/)
 
+- New template [`[cb975b7]`](https://github.com/GitToolbox/post-commit-test/commit/cb975b79a894b1d86baf25895f7fd286b802fa71)
+
 - update [`[44a8691]`](https://github.com/GitToolbox/post-commit-test/commit/44a869151d020d28c13a5eaf885c9a7894a43cc1)
 
 - Update [`[5e5799d]`](https://github.com/GitToolbox/post-commit-test/commit/5e5799d1269261ef13531cd07a35db1934ded6b5)

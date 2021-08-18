@@ -1,0 +1,59 @@
+name: Feature Request
+description: Request a new feature
+title: "[Feature Request]: "
+labels: [enhancement, triage]
+assignees:
+  - tgwolf
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: releated-to
+    attributes:
+      label: Is your feature request related to a problem?
+      description: A clear and concise description of what the problem is. E.g. I'm always frustrated when ...
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: textarea
+    id: suggested-solution
+    attributes:
+      label: Suggested Solution
+      description: A clear and concise description of what you want to see implemented.
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Describe alternatives you've considered
+      description: A clear and concise description of any alternative solutions or features you've considered.
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional information
+      description: Please provide any additional information that you think will help us to resolve this bug.
+      placeholder: Tell us what you see!
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
