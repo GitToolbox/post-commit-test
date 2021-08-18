@@ -1,0 +1,23 @@
+name: Give Feedback
+description: Give us some feedback
+title: "[Feedback]: "
+labels: [question, triage]
+assignees:
+  - tgwolf
+body:
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What is your feedback?
+      description: Please give us your feedback.
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
