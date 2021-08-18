@@ -21,37 +21,50 @@ body:
     id: what-happened
     attributes:
       label: What happened?
-      description: Also tell us, what did you expect to happen?
+      description: A clear and concise description of what the bug is.
       placeholder: Tell us what you see!
-      value: "A bug happened!"
     validations:
       required: true
-  - type: dropdown
-    id: version
+  - type: textarea
+    id: expected-behavior
     attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+      placeholder: Tell us what you see!
     validations:
       required: true
-  - type: dropdown
-    id: browsers
+  - type: textarea
+    id: reproduce
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+      label: How do we reproduct the bug?
+      description: What are the steps we need to take to reproduce the behavior?
+      placeholder: Tell us what you see!
+    validations:
+      required: true
   - type: textarea
     id: logs
     attributes:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
+    validations:
+      required: false
+  - type: textarea
+    id: screenshoots
+    attributes:
+      label: Screeenshots
+      description: Upload any screenshots that might help demonstrate the bug.
+      placeholder: Tell us what you see!
+    validations:
+      required: false
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional information
+      description: Please provide any additional information that you think will help us to resolve this bug.
+      placeholder: Tell us what you see!
+    validations:
+      required: false
   - type: checkboxes
     id: terms
     attributes:
