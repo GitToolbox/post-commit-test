@@ -1,5 +1,5 @@
 name: Feature Request
-description: Request a new feature
+description: Giot an idea for a new feature? Let us know what you want and we will see if we can add it.
 title: "[Feature Request]: "
 labels: [enhancement, triage]
 assignees:
@@ -10,7 +10,6 @@ body:
     attributes:
       label: Is your feature request related to a problem?
       description: A clear and concise description of what the problem is. E.g. I'm always frustrated when ...
-      placeholder: Tell us what you see!
     validations:
       required: true
   - type: textarea
@@ -18,7 +17,6 @@ body:
     attributes:
       label: Suggested Solution
       description: A clear and concise description of what you want to see implemented.
-      placeholder: Tell us what you see!
     validations:
       required: true
   - type: textarea
@@ -26,7 +24,6 @@ body:
     attributes:
       label: Describe alternatives you've considered
       description: A clear and concise description of any alternative solutions or features you've considered.
-      placeholder: Tell us what you see!
     validations:
       required: true
   - type: textarea
@@ -34,7 +31,6 @@ body:
     attributes:
       label: Additional information
       description: Please provide any additional information that you think will help us to resolve this bug.
-      placeholder: Tell us what you see!
     validations:
       required: false
   - type: checkboxes
