@@ -3,7 +3,7 @@
         <img src="https://raw.githubusercontent.com/WolfSoftware/branding/master/images/general/banners/64/black-and-white.png" alt="Wolf Software Logo" />
     </a>
     <br />
-    Test post-commit hook
+    Post Commit Git Hook
 </h1>
 
 <p align="center">
