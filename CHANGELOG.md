@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/GitToolbox/post-commit-test/commits/master)
 
-- testing [`[head]`](https://github.com/GitToolbox/post-commit-test/commit/)
+- update [`[head]`](https://github.com/GitToolbox/post-commit-test/commit/)
+
+- testing [`[8f99d7d]`](https://github.com/GitToolbox/post-commit-test/commit/8f99d7d060ad54432a30770dc0f7ce94785c9829)
 
 - New template [`[6fc6338]`](https://github.com/GitToolbox/post-commit-test/commit/6fc633820612e7e1c1513aa94554c419e2a776d0)
 
