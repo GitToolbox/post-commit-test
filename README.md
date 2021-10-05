@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/WolfSoftware">
-        <img src="https://cdn.WolfSoftware.com/assets/images/general/banners/64/black-and-white.png" alt="Wolf Software Logo" />
+        <img src="https://cdn.wolfsoftware.com/assets/images/general/banners/64/black-and-white.png" alt="Wolf Software Logo" />
     </a>
     <br />
     <a href="https://github.com/GitToolbox/post-commit-test/actions/workflows/pipeline.yml">
@@ -24,10 +24,6 @@
     </a>
     <a href="https://github.com/GitToolbox/post-commit-test/issues">
         <img src="https://img.shields.io/badge/Get%20Support-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-    </a>
-    <br />
-    <a href="https://github.com/TGWolf">
-        <img src="https://img.shields.io/badge/Created%20by%20Wolf-black?style=for-the-badge" />
     </a>
 </p>
 
