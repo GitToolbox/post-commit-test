@@ -1,12 +1,8 @@
-<h1 align="center">
+<p align="center">
     <a href="https://github.com/WolfSoftware">
-        <img src="https://raw.githubusercontent.com/WolfSoftware/branding/master/images/general/banners/64/black-and-white.png" alt="Wolf Software Logo" />
+        <img src="https://cdn.WolfSoftware.com/assets/images/general/banners/64/black-and-white.png" alt="Wolf Software Logo" />
     </a>
     <br />
-    Post Commit Git Hook
-</h1>
-
-<p align="center">
     <a href="https://github.com/GitToolbox/post-commit-test/actions/workflows/pipeline.yml">
         <img src="https://img.shields.io/github/workflow/status/GitToolbox/post-commit-test/pipeline/master?logo=github&logoColor=white&style=for-the-badge" alt="Github Build Status">
     </a>
@@ -38,10 +34,12 @@
 ## Overview
 
 
-## Show Support
-
-<p>
-	<a href="https://ko-fi.com/wolfsoftware">
-		<img src="https://img.shields.io/badge/Ko%20Fi-blue?style=for-the-badge&logo=ko-fi&logoColor=white" />
-	</a>
+<p align="right">
+    <a href="https://github.com/TGWolf">
+        <img src="https://img.shields.io/badge/Created%20by%20Wolf-black?style=for-the-badge" />
+    </a>
+    <br />
+    <a href="https://ko-fi.com/wolfsoftware">
+        <img src="https://img.shields.io/badge/Ko%20Fi-black?style=for-the-badge&logo=ko-fi&logoColor=white" />
+    </a>
 </p>

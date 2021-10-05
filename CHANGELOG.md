@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/GitToolbox/post-commit-test/commits/master)
 
-- update [`[head]`](https://github.com/GitToolbox/post-commit-test/commit/)
+- stuff [`[head]`](https://github.com/GitToolbox/post-commit-test/commit/)
+
+- update [`[cab2d99]`](https://github.com/GitToolbox/post-commit-test/commit/cab2d99c824d6afee28ae63d072f2eb57b94af49)
 
 - update [`[4def7d5]`](https://github.com/GitToolbox/post-commit-test/commit/4def7d5dfdf86a8ec38a5fc038e1e7628ac5177a)
 
