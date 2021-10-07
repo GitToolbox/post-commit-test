@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://github.com/WolfSoftware">
-        <img src="https://cdn.wolfsoftware.com/assets/images/general/banners/64/black-and-white.png" alt="Wolf Software Logo" />
+        <img src="https://cdn.wolfsoftware.com/assets/images/general/logos/256/black-and-white-circle.png" alt="Wolf Software Logo" />
     </a>
-    <br />
+    <br /><br />
     <a href="https://github.com/GitToolbox/post-commit-test/actions/workflows/pipeline.yml">
         <img src="https://img.shields.io/github/workflow/status/GitToolbox/post-commit-test/pipeline/master?style=for-the-badge" alt="Github Build Status">
     </a>
