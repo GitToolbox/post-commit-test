@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/WolfSoftware">
-        <img src="https://cdn.wolfsoftware.com/assets/images/general/logos/256/black-and-white-circle.png" alt="Wolf Software Logo" />
+        <img src="https://cdn.wolfsoftware.com/assets/images/general/logos/128/black-and-white-circle.png" alt="Wolf Software Logo" />
     </a>
     <br /><br />
     <a href="https://github.com/GitToolbox/post-commit-test/actions/workflows/pipeline.yml">
