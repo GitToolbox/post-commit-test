@@ -27,10 +27,10 @@
     </a>
     <br />
     <a href="https://github.com/TGWolf">
-        <img src="https://img.shields.io/badge/Created%20by%20Wolf-black?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Created%20by%20Wolf%20Software-blue?style=for-the-badge" />
     </a>
     <a href="https://ko-fi.com/wolfsoftware">
-        <img src="https://img.shields.io/badge/Support%20Us%20via%20Ko%20Fi-black?style=for-the-badge&logo=ko-fi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Support%20Us%20via%20Ko%20Fi-blue?style=for-the-badge&logo=ko-fi&logoColor=white" />
     </a>
 </p>
 
