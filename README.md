@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/GitToolbox">
+    <a href="https://github.com/GitToolbox/">
         <img src="https://cdn.wolfsoftware.com/assets/images/github/organisations/gittoolbox/black-and-white-circle-256.png" alt="GitToolbox logo" />
     </a>
     <br /><br />
