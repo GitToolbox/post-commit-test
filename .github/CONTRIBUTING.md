@@ -1,6 +1,6 @@
 # Contributing
 
-Please refer to the [contributing](https://github.com//contributing) documentation.
+Please refer to the [contributing](https://github.com/WolfSoftware/contributing) documentation.
 
 ## Important
 
