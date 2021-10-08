@@ -9,6 +9,8 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 - stuff [`[head]`](https://github.com/GitToolbox/post-commit-test/commit/)
 
+- stuff [`[265a67a]`](https://github.com/GitToolbox/post-commit-test/commit/265a67aabb4b7dff06eddf1c0de368375c3994b3)
+
 - stuff [`[8a6f969]`](https://github.com/GitToolbox/post-commit-test/commit/8a6f9692a98df85e6f3668d941aeda0878c7915f)
 
 - stuff [`[662a257]`](https://github.com/GitToolbox/post-commit-test/commit/662a2573cdf3bc771307e1c3be1020de9468ad4e)
