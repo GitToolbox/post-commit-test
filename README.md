@@ -2,7 +2,7 @@
     <a href="https://github.com/GitToolbox/">
         <img src="https://cdn.wolfsoftware.com/assets/images/github/organisations/gittoolbox/black-and-white-circle-256.png" alt="GitToolbox logo" />
     </a>
-    <br /><br />
+    <br />
     <a href="https://github.com/GitToolbox/post-commit-test/actions/workflows/pipeline.yml">
         <img src="https://img.shields.io/github/workflow/status/GitToolbox/post-commit-test/pipeline/master?style=for-the-badge" alt="Github Build Status">
     </a>
